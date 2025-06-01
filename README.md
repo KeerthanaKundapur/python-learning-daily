@@ -4,4 +4,5 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 
 ## 📅 Progress
 
-- Day01
+- [Day 1 – Introduction to Python](Day01/notes.md)
+
