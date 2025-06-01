@@ -1,2 +1,7 @@
-# python-learning-daily
-Daily Python notes and code based on Engineering Kannada by Chandan S Gowda
+# 🐍 Python Learning Journal
+
+Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kannada).
+
+## 📅 Progress
+
+- [Day 1 – Introduction to Python](Day01/notes.md)
