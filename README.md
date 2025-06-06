@@ -9,3 +9,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 3 - Input/Output, String Manipulation, and Comments](Day03/note3.md)
 - [Day 4 - Operators in Python](Day04/note4.md)
 - [Day 5 - Lists in Python](Day05/note5.md)
+- [Day 6 - Tuples and Sets in Python](Day06/notes6.md)
