@@ -10,3 +10,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 4 - Operators in Python](Day04/note4.md)
 - [Day 5 - Lists in Python](Day05/note5.md)
 - [Day 6 - Tuples and Sets in Python](Day06/notes6.md)
+- [Day 7 - Dictionaries in Python](Day07/notes7.md)
