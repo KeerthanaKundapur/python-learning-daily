@@ -12,3 +12,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 6 - Tuples and Sets in Python](Day06/notes6.md)
 - [Day 7 - Dictionaries in Python](Day07/notes7.md)
 - [Day 8 - Conditional Statements in Python: if, elif, and else](Day08/notes8.md)
+- [Day 9 - While Loops in Python](Day09/notes9.md)
