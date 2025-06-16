@@ -15,3 +15,4 @@ Daily progress based on the YouTube course by Chandan S Gowda (Engineering Kanna
 - [Day 9 - While Loops in Python](Day09/notes9.md)
 - [Day 10 - For Loops in Python](Day10/notes10.md)
 - [Day 11 - Lists and Dictionaries with For Loops, List Comprehension, and Dictionary Comprehension](Day11/note11.md)
+- [Day 12 - Basics of Functions](Day12/notes12.md)
