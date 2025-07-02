@@ -6,7 +6,7 @@ Python is a high-level, interpreted programming language known for its simplicit
     Web development (e.g., Django, Flask)
     Data Science and Machine Learning (e.g., Pandas, TensorFlow)
     Automation (e.g., scripting tasks)
-    Software development and more.
+    Software development and more. 
 
 2. Why is Python Popular?
 
