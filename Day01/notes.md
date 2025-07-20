@@ -10,10 +10,10 @@ Python is a high-level, interpreted programming language known for its simplicit
 
 2. Why is Python Popular?
 
-    Easy to learn: Python’s syntax is simple and very close to natural language, making it a great language for beginners.
-    Community support: It has a massive community, meaning you'll find lots of tutorials, resources, and libraries.
-    Cross-platform: Python works on different operating systems (Windows, macOS, Linux, etc.).
-    Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
+Easy to learn: Python’s syntax is simple and very close to natural language, making it a great language for beginners.
+Community support: It has a massive community, meaning you'll find lots of tutorials, resources, and libraries.
+Cross-platform: Python works on different operating systems (Windows, macOS, Linux, etc.).
+Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
 
 3. Setting Up Python Environment
 Step 1: Download Python
