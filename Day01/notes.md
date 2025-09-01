@@ -16,7 +16,7 @@ Cross-platform: Python works on different operating systems (Windows, macOS, Lin
 Versatile: Whether it's web development, data analysis, or automation, Python has libraries for almost everything.
 
 3. Setting Up Python Environment
-Step 1: Download Python
+Step 1: Download Python 
 
     Visit: Python's official website
     Download the latest version of Python for your operating system (Windows, macOS, or Linux).
