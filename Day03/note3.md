@@ -2,7 +2,7 @@
 
 ### **1. Input and Output in Python**
 
-#### **1.1 Input from the User:**
+#### **1.1 Input from the User:** 
 In Python, we use the `input()` function to take input from the user. The data entered by the user is always received as a string, so if you want to use it as a different data type (e.g., integer or float), you'll need to convert it using type conversion functions like `int()` or `float()`.
 
 ```python
