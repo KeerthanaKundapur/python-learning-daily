@@ -12,7 +12,7 @@ Assignment operators are used to assign values to variables. The simplest one is
 - `/=`: Divides the left operand by the right operand and assigns the result to the left operand.
 - `%=`: Takes modulus of left operand by right operand and assigns the result to the left operand.
 
-#### **Examples**:
+#### **Examples**: 
 ```python
 x = 5  # Assigns 5 to x
 x += 3  # Equivalent to x = x + 3, now x is 8
