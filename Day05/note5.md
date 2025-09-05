@@ -9,7 +9,7 @@ A list is a collection of items that are **ordered**, **mutable** (changeable), 
 my_list = [element1, element2, element3, ...]
 ```
 
-#### **Example**:
+#### **Example**: 
 ```python
 fruits = ["apple", "banana", "cherry"]
 numbers = [1, 2, 3, 4, 5]
