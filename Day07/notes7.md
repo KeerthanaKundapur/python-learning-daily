@@ -6,7 +6,7 @@ A dictionary in Python is a collection of **key-value pairs**. Each key in a dic
 
 You can create a dictionary using curly braces `{}` or the `dict()` function.
 
-#### **Syntax**: 
+#### **Syntax**:  
 ```python
 my_dict = {
     "key1": "value1",
