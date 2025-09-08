@@ -6,7 +6,7 @@ In programming, **conditional statements** are used to perform different actions
 
 The `if` statement is used to test a condition. If the condition is **True**, the block of code under the `if` statement is executed.
 
-#### **Syntax**:
+#### **Syntax**: 
 ```python
 if condition:
     # Code block to execute if the condition is True
