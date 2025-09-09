@@ -6,7 +6,7 @@ A **loop** is a programming structure that repeats a set of instructions as long
 
 The `while` loop repeatedly executes a block of code as long as the condition is `True`.
 
-#### **Syntax**:
+#### **Syntax**: 
 ```python
 while condition:
     # Code to execute as long as condition is True
